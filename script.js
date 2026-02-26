@@ -69,7 +69,7 @@ function draw() {
     ctx.fillText("Sk Kamaluddin", cx, cy);
     ctx.restore();
 
-    base += 0.004; // Speed control 
+    base += 0.005; // Speed control 
     requestAnimationFrame(draw);
 }
 
