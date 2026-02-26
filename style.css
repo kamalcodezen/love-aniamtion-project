@@ -22,7 +22,7 @@ body {
     position: absolute;
     width: 200%;
     height: 200%;
-    background-image: radial-gradient(white 1px, transparent 1px);
+    background-image: radial-gradient(rgb(255, 192, 203) 1px, transparent 1px);
     background-size: 3px 3px;
     opacity: 0.08;
     animation: starsMove 60s linear infinite;
